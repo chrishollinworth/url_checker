@@ -1,0 +1,16 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description:
+
+Resources:
+  UrlCheckerFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      Timeout: 900
+      PackageType: Image
+      MemorySize: 2048
+      ImageConfig:
+        Command: ["app.lambda_handler"]
+    Metadata:
+      Dockerfile: Dockerfile
+      DockerContext: .

@@ -1,0 +1,3085 @@
+{
+    "url_csv_file_path": "",
+    "additional_urls": [
+            {
+                "name": "google",
+                "url": "https://google.com"
+            },
+            {
+                "name": "youtube",
+                "url": "https://youtube.com"
+            },
+            {
+                "name": "facebook",
+                "url": "https://facebook.com"
+            },
+            {
+                "name": "baidu",
+                "url": "https://baidu.com"
+            },
+            {
+                "name": "bilibili",
+                "url": "https://bilibili.com"
+            },
+            {
+                "name": "instagram",
+                "url": "https://instagram.com"
+            },
+            {
+                "name": "yahoo",
+                "url": "https://yahoo.com"
+            },
+            {
+                "name": "qq",
+                "url": "https://qq.com"
+            },
+            {
+                "name": "whatsapp",
+                "url": "https://whatsapp.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.com"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com"
+            },
+            {
+                "name": "wikipedia",
+                "url": "https://wikipedia.org"
+            },
+            {
+                "name": "bing",
+                "url": "https://bing.com"
+            },
+            {
+                "name": "live",
+                "url": "https://live.com"
+            },
+            {
+                "name": "zhihu",
+                "url": "https://zhihu.com"
+            },
+            {
+                "name": "microsoft",
+                "url": "https://microsoft.com"
+            },
+            {
+                "name": "netflix",
+                "url": "https://netflix.com"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://linkedin.com"
+            },
+            {
+                "name": "reddit",
+                "url": "https://reddit.com"
+            },
+            {
+                "name": "microsoftonline",
+                "url": "https://microsoftonline.com"
+            },
+            {
+                "name": "office",
+                "url": "https://office.com"
+            },
+            {
+                "name": "yandex",
+                "url": "https://yandex.ru"
+            },
+            {
+                "name": "csdn",
+                "url": "https://csdn.net"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com"
+            },
+            {
+                "name": "vk",
+                "url": "https://vk.com"
+            },
+            {
+                "name": "xvideos",
+                "url": "https://xvideos.com"
+            },
+            {
+                "name": "tiktok",
+                "url": "https://tiktok.com"
+            },
+            {
+                "name": "163",
+                "url": "https://163.com"
+            },
+            {
+                "name": "zoom",
+                "url": "https://zoom.us"
+            },
+            {
+                "name": "naver",
+                "url": "https://naver.com"
+            },
+            {
+                "name": "twitch",
+                "url": "https://twitch.tv"
+            },
+            {
+                "name": "canva",
+                "url": "https://canva.com"
+            },
+            {
+                "name": "taobao",
+                "url": "https://taobao.com"
+            },
+            {
+                "name": "pornhub",
+                "url": "https://pornhub.com"
+            },
+            {
+                "name": "yahoo",
+                "url": "https://yahoo.co.jp"
+            },
+            {
+                "name": "msn",
+                "url": "https://msn.com"
+            },
+            {
+                "name": "aliexpress",
+                "url": "https://aliexpress.com"
+            },
+            {
+                "name": "roblox",
+                "url": "https://roblox.com"
+            },
+            {
+                "name": "paypal",
+                "url": "https://paypal.com"
+            },
+            {
+                "name": "stackoverflow",
+                "url": "https://stackoverflow.com"
+            },
+            {
+                "name": "fandom",
+                "url": "https://fandom.com"
+            },
+            {
+                "name": "apple",
+                "url": "https://apple.com"
+            },
+            {
+                "name": "weibo",
+                "url": "https://weibo.com"
+            },
+            {
+                "name": "amazonaws",
+                "url": "https://amazonaws.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.co.jp"
+            },
+            {
+                "name": "mail",
+                "url": "https://mail.ru"
+            },
+            {
+                "name": "neea",
+                "url": "https://neea.edu.cn"
+            },
+            {
+                "name": "imdb",
+                "url": "https://imdb.com"
+            },
+            {
+                "name": "jd",
+                "url": "https://jd.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.in"
+            },
+            {
+                "name": "adobe",
+                "url": "https://adobe.com"
+            },
+            {
+                "name": "xhamster",
+                "url": "https://xhamster.com"
+            },
+            {
+                "name": "ebay",
+                "url": "https://ebay.com"
+            },
+            {
+                "name": "pinterest",
+                "url": "https://pinterest.com"
+            },
+            {
+                "name": "sina",
+                "url": "https://sina.com.cn"
+            },
+            {
+                "name": "quora",
+                "url": "https://quora.com"
+            },
+            {
+                "name": "spotify",
+                "url": "https://spotify.com"
+            },
+            {
+                "name": "instructure",
+                "url": "https://instructure.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.hk"
+            },
+            {
+                "name": "telegram",
+                "url": "https://telegram.org"
+            },
+            {
+                "name": "primevideo",
+                "url": "https://primevideo.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.co.jp"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.de"
+            },
+            {
+                "name": "sohu",
+                "url": "https://sohu.com"
+            },
+            {
+                "name": "discord",
+                "url": "https://discord.com"
+            },
+            {
+                "name": "douyin",
+                "url": "https://douyin.com"
+            },
+            {
+                "name": "steampowered",
+                "url": "https://steampowered.com"
+            },
+            {
+                "name": "xnxx",
+                "url": "https://xnxx.com"
+            },
+            {
+                "name": "huya",
+                "url": "https://huya.com"
+            },
+            {
+                "name": "freepik",
+                "url": "https://freepik.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.co.uk"
+            },
+            {
+                "name": "so",
+                "url": "https://so.com"
+            },
+            {
+                "name": "chaoxing",
+                "url": "https://chaoxing.com"
+            },
+            {
+                "name": "myshopify",
+                "url": "https://myshopify.com"
+            },
+            {
+                "name": "hao123",
+                "url": "https://hao123.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.co.in"
+            },
+            {
+                "name": "douban",
+                "url": "https://douban.com"
+            },
+            {
+                "name": "duckduckgo",
+                "url": "https://duckduckgo.com"
+            },
+            {
+                "name": "tmall",
+                "url": "https://tmall.com"
+            },
+            {
+                "name": "ok",
+                "url": "https://ok.ru"
+            },
+            {
+                "name": "indeed",
+                "url": "https://indeed.com"
+            },
+            {
+                "name": "msn",
+                "url": "https://msn.cn"
+            },
+            {
+                "name": "ilovepdf",
+                "url": "https://ilovepdf.com"
+            },
+            {
+                "name": "booking",
+                "url": "https://booking.com"
+            },
+            {
+                "name": "disneyplus",
+                "url": "https://disneyplus.com"
+            },
+            {
+                "name": "deepl",
+                "url": "https://deepl.com"
+            },
+            {
+                "name": "etsy",
+                "url": "https://etsy.com"
+            },
+            {
+                "name": "tencent",
+                "url": "https://tencent.com"
+            },
+            {
+                "name": "steamcommunity",
+                "url": "https://steamcommunity.com"
+            },
+            {
+                "name": "cnblogs",
+                "url": "https://cnblogs.com"
+            },
+            {
+                "name": "1688",
+                "url": "https://1688.com"
+            },
+            {
+                "name": "rakuten",
+                "url": "https://rakuten.co.jp"
+            },
+            {
+                "name": "google",
+                "url": "https://google.de"
+            },
+            {
+                "name": "wetransfer",
+                "url": "https://wetransfer.com"
+            },
+            {
+                "name": "douyu",
+                "url": "https://douyu.com"
+            },
+            {
+                "name": "iqiyi",
+                "url": "https://iqiyi.com"
+            },
+            {
+                "name": "sogou",
+                "url": "https://sogou.com"
+            },
+            {
+                "name": "stripchat",
+                "url": "https://stripchat.com"
+            },
+            {
+                "name": "udemy",
+                "url": "https://udemy.com"
+            },
+            {
+                "name": "zxxk",
+                "url": "https://zxxk.com"
+            },
+            {
+                "name": "dropbox",
+                "url": "https://dropbox.com"
+            },
+            {
+                "name": "flipkart",
+                "url": "https://flipkart.com"
+            },
+            {
+                "name": "avito",
+                "url": "https://avito.ru"
+            },
+            {
+                "name": "force",
+                "url": "https://force.com"
+            },
+            {
+                "name": "tradingview",
+                "url": "https://tradingview.com"
+            },
+            {
+                "name": "spankbang",
+                "url": "https://spankbang.com"
+            },
+            {
+                "name": "chaturbate",
+                "url": "https://chaturbate.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.br"
+            },
+            {
+                "name": "godaddy",
+                "url": "https://godaddy.com"
+            },
+            {
+                "name": "wordpress",
+                "url": "https://wordpress.com"
+            },
+            {
+                "name": "mediafire",
+                "url": "https://mediafire.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.fr"
+            },
+            {
+                "name": "epicgames",
+                "url": "https://epicgames.com"
+            },
+            {
+                "name": "t",
+                "url": "https://t.me"
+            },
+            {
+                "name": "google",
+                "url": "https://google.co.uk"
+            },
+            {
+                "name": "w3schools",
+                "url": "https://w3schools.com"
+            },
+            {
+                "name": "youdao",
+                "url": "https://youdao.com"
+            },
+            {
+                "name": "alipay",
+                "url": "https://alipay.com"
+            },
+            {
+                "name": "nih",
+                "url": "https://nih.gov"
+            },
+            {
+                "name": "zxx",
+                "url": "https://zxx.edu.cn"
+            },
+            {
+                "name": "google",
+                "url": "https://google.it"
+            },
+            {
+                "name": "fiverr",
+                "url": "https://fiverr.com"
+            },
+            {
+                "name": "360",
+                "url": "https://360.cn"
+            },
+            {
+                "name": "youku",
+                "url": "https://youku.com"
+            },
+            {
+                "name": "hbomax",
+                "url": "https://hbomax.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.it"
+            },
+            {
+                "name": "shopify",
+                "url": "https://shopify.com"
+            },
+            {
+                "name": "medium",
+                "url": "https://medium.com"
+            },
+            {
+                "name": "tistory",
+                "url": "https://tistory.com"
+            },
+            {
+                "name": "tumblr",
+                "url": "https://tumblr.com"
+            },
+            {
+                "name": "twimg",
+                "url": "https://twimg.com"
+            },
+            {
+                "name": "onlyfans",
+                "url": "https://onlyfans.com"
+            },
+            {
+                "name": "bbc",
+                "url": "https://bbc.co.uk"
+            },
+            {
+                "name": "mega",
+                "url": "https://mega.nz"
+            },
+            {
+                "name": "jianshu",
+                "url": "https://jianshu.com"
+            },
+            {
+                "name": "cnn",
+                "url": "https://cnn.com"
+            },
+            {
+                "name": "realsrv",
+                "url": "https://realsrv.com"
+            },
+            {
+                "name": "chase",
+                "url": "https://chase.com"
+            },
+            {
+                "name": "slack",
+                "url": "https://slack.com"
+            },
+            {
+                "name": "daum",
+                "url": "https://daum.net"
+            },
+            {
+                "name": "cnki",
+                "url": "https://cnki.net"
+            },
+            {
+                "name": "pixiv",
+                "url": "https://pixiv.net"
+            },
+            {
+                "name": "3dmgame",
+                "url": "https://3dmgame.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.es"
+            },
+            {
+                "name": "researchgate",
+                "url": "https://researchgate.net"
+            },
+            {
+                "name": "nytimes",
+                "url": "https://nytimes.com"
+            },
+            {
+                "name": "feishu",
+                "url": "https://feishu.cn"
+            },
+            {
+                "name": "alibaba",
+                "url": "https://alibaba.com"
+            },
+            {
+                "name": "messenger",
+                "url": "https://messenger.com"
+            },
+            {
+                "name": "speedtest",
+                "url": "https://speedtest.net"
+            },
+            {
+                "name": "lx",
+                "url": "https://lx.pub"
+            },
+            {
+                "name": "bbc",
+                "url": "https://bbc.com"
+            },
+            {
+                "name": "sciencedirect",
+                "url": "https://sciencedirect.com"
+            },
+            {
+                "name": "ali213",
+                "url": "https://ali213.net"
+            },
+            {
+                "name": "espn",
+                "url": "https://espn.com"
+            },
+            {
+                "name": "hotstar",
+                "url": "https://hotstar.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.es"
+            },
+            {
+                "name": "ozon",
+                "url": "https://ozon.ru"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.fr"
+            },
+            {
+                "name": "trello",
+                "url": "https://trello.com"
+            },
+            {
+                "name": "ebay",
+                "url": "https://ebay.co.uk"
+            },
+            {
+                "name": "mercadolivre",
+                "url": "https://mercadolivre.com.br"
+            },
+            {
+                "name": "walmart",
+                "url": "https://walmart.com"
+            },
+            {
+                "name": "patreon",
+                "url": "https://patreon.com"
+            },
+            {
+                "name": "vimeo",
+                "url": "https://vimeo.com"
+            },
+            {
+                "name": "grammarly",
+                "url": "https://grammarly.com"
+            },
+            {
+                "name": "coinmarketcap",
+                "url": "https://coinmarketcap.com"
+            },
+            {
+                "name": "globo",
+                "url": "https://globo.com"
+            },
+            {
+                "name": "zoho",
+                "url": "https://zoho.com"
+            },
+            {
+                "name": "aliyun",
+                "url": "https://aliyun.com"
+            },
+            {
+                "name": "binance",
+                "url": "https://binance.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.sg"
+            },
+            {
+                "name": "google",
+                "url": "https://google.ru"
+            },
+            {
+                "name": "docin",
+                "url": "https://docin.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.cn"
+            },
+            {
+                "name": "notion",
+                "url": "https://notion.so"
+            },
+            {
+                "name": "salesforce",
+                "url": "https://salesforce.com"
+            },
+            {
+                "name": "imgur",
+                "url": "https://imgur.com"
+            },
+            {
+                "name": "ilive",
+                "url": "https://ilive.cn"
+            },
+            {
+                "name": "xiaohongshu",
+                "url": "https://xiaohongshu.com"
+            },
+            {
+                "name": "behance",
+                "url": "https://behance.net"
+            },
+            {
+                "name": "savefrom",
+                "url": "https://savefrom.net"
+            },
+            {
+                "name": "hulu",
+                "url": "https://hulu.com"
+            },
+            {
+                "name": "okta",
+                "url": "https://okta.com"
+            },
+            {
+                "name": "namu",
+                "url": "https://namu.wiki"
+            },
+            {
+                "name": "figma",
+                "url": "https://figma.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.ca"
+            },
+            {
+                "name": "aliyundrive",
+                "url": "https://aliyundrive.com"
+            },
+            {
+                "name": "ikea",
+                "url": "https://ikea.com"
+            },
+            {
+                "name": "geeksforgeeks",
+                "url": "https://geeksforgeeks.org"
+            },
+            {
+                "name": "stripe",
+                "url": "https://stripe.com"
+            },
+            {
+                "name": "cloudfront",
+                "url": "https://cloudfront.net"
+            },
+            {
+                "name": "lazada",
+                "url": "https://lazada.sg"
+            },
+            {
+                "name": "y2mate",
+                "url": "https://y2mate.com"
+            },
+            {
+                "name": "zillow",
+                "url": "https://zillow.com"
+            },
+            {
+                "name": "uol",
+                "url": "https://uol.com.br"
+            },
+            {
+                "name": "ebay",
+                "url": "https://ebay.de"
+            },
+            {
+                "name": "shutterstock",
+                "url": "https://shutterstock.com"
+            },
+            {
+                "name": "googlesyndication",
+                "url": "https://googlesyndication.com"
+            },
+            {
+                "name": "ixigua",
+                "url": "https://ixigua.com"
+            },
+            {
+                "name": "hdfcbank",
+                "url": "https://hdfcbank.com"
+            },
+            {
+                "name": "chess",
+                "url": "https://chess.com"
+            },
+            {
+                "name": "line",
+                "url": "https://line.me"
+            },
+            {
+                "name": "upwork",
+                "url": "https://upwork.com"
+            },
+            {
+                "name": "bankofamerica",
+                "url": "https://bankofamerica.com"
+            },
+            {
+                "name": "book118",
+                "url": "https://book118.com"
+            },
+            {
+                "name": "allegro",
+                "url": "https://allegro.pl"
+            },
+            {
+                "name": "linktr",
+                "url": "https://linktr.ee"
+            },
+            {
+                "name": "nicovideo",
+                "url": "https://nicovideo.jp"
+            },
+            {
+                "name": "archive",
+                "url": "https://archive.org"
+            },
+            {
+                "name": "remove",
+                "url": "https://remove.bg"
+            },
+            {
+                "name": "soundcloud",
+                "url": "https://soundcloud.com"
+            },
+            {
+                "name": "mozilla",
+                "url": "https://mozilla.org"
+            },
+            {
+                "name": "op",
+                "url": "https://op.gg"
+            },
+            {
+                "name": "digikala",
+                "url": "https://digikala.com"
+            },
+            {
+                "name": "smartedu",
+                "url": "https://smartedu.cn"
+            },
+            {
+                "name": "stackexchange",
+                "url": "https://stackexchange.com"
+            },
+            {
+                "name": "quizlet",
+                "url": "https://quizlet.com"
+            },
+            {
+                "name": "googlevideo",
+                "url": "https://googlevideo.com"
+            },
+            {
+                "name": "dailymail",
+                "url": "https://dailymail.co.uk"
+            },
+            {
+                "name": "zol",
+                "url": "https://zol.com.cn"
+            },
+            {
+                "name": "toutiao",
+                "url": "https://toutiao.com"
+            },
+            {
+                "name": "office365",
+                "url": "https://office365.com"
+            },
+            {
+                "name": "coursera",
+                "url": "https://coursera.org"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.mx"
+            },
+            {
+                "name": "wildberries",
+                "url": "https://wildberries.ru"
+            },
+            {
+                "name": "yts",
+                "url": "https://yts.mx"
+            },
+            {
+                "name": "smzdm",
+                "url": "https://smzdm.com"
+            },
+            {
+                "name": "theguardian",
+                "url": "https://theguardian.com"
+            },
+            {
+                "name": "fc2",
+                "url": "https://fc2.com"
+            },
+            {
+                "name": "blogger",
+                "url": "https://blogger.com"
+            },
+            {
+                "name": "indiatimes",
+                "url": "https://indiatimes.com"
+            },
+            {
+                "name": "samsung",
+                "url": "https://samsung.com"
+            },
+            {
+                "name": "wix",
+                "url": "https://wix.com"
+            },
+            {
+                "name": "52pojie",
+                "url": "https://52pojie.cn"
+            },
+            {
+                "name": "ebay-kleinanzeigen",
+                "url": "https://ebay-kleinanzeigen.de"
+            },
+            {
+                "name": "eastday",
+                "url": "https://eastday.com"
+            },
+            {
+                "name": "deviantart",
+                "url": "https://deviantart.com"
+            },
+            {
+                "name": "atlassian",
+                "url": "https://atlassian.net"
+            },
+            {
+                "name": "yandex",
+                "url": "https://yandex.com"
+            },
+            {
+                "name": "wellsfargo",
+                "url": "https://wellsfargo.com"
+            },
+            {
+                "name": "hupu",
+                "url": "https://hupu.com"
+            },
+            {
+                "name": "pconline",
+                "url": "https://pconline.com.cn"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.com.br"
+            },
+            {
+                "name": "mgtv",
+                "url": "https://mgtv.com"
+            },
+            {
+                "name": "pinimg",
+                "url": "https://pinimg.com"
+            },
+            {
+                "name": "craigslist",
+                "url": "https://craigslist.org"
+            },
+            {
+                "name": "huawei",
+                "url": "https://huawei.com"
+            },
+            {
+                "name": "americanexpress",
+                "url": "https://americanexpress.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.tw"
+            },
+            {
+                "name": "kakao",
+                "url": "https://kakao.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.ca"
+            },
+            {
+                "name": "runoob",
+                "url": "https://runoob.com"
+            },
+            {
+                "name": "gamersky",
+                "url": "https://gamersky.com"
+            },
+            {
+                "name": "unsplash",
+                "url": "https://unsplash.com"
+            },
+            {
+                "name": "varzesh3",
+                "url": "https://varzesh3.com"
+            },
+            {
+                "name": "hubspot",
+                "url": "https://hubspot.com"
+            },
+            {
+                "name": "envato",
+                "url": "https://envato.com"
+            },
+            {
+                "name": "blackboard",
+                "url": "https://blackboard.com"
+            },
+            {
+                "name": "shaparak",
+                "url": "https://shaparak.ir"
+            },
+            {
+                "name": "shein",
+                "url": "https://shein.com"
+            },
+            {
+                "name": "aliexpress",
+                "url": "https://aliexpress.ru"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.tr"
+            },
+            {
+                "name": "pixabay",
+                "url": "https://pixabay.com"
+            },
+            {
+                "name": "gosuslugi",
+                "url": "https://gosuslugi.ru"
+            },
+            {
+                "name": "icloud",
+                "url": "https://icloud.com"
+            },
+            {
+                "name": "pexels",
+                "url": "https://pexels.com"
+            },
+            {
+                "name": "mercadolibre",
+                "url": "https://mercadolibre.com.mx"
+            },
+            {
+                "name": "ameblo",
+                "url": "https://ameblo.jp"
+            },
+            {
+                "name": "redd",
+                "url": "https://redd.it"
+            },
+            {
+                "name": "greasyfork",
+                "url": "https://greasyfork.org"
+            },
+            {
+                "name": "dmm",
+                "url": "https://dmm.co.jp"
+            },
+            {
+                "name": "bet365",
+                "url": "https://bet365.com"
+            },
+            {
+                "name": "aol",
+                "url": "https://aol.com"
+            },
+            {
+                "name": "reverso",
+                "url": "https://reverso.net"
+            },
+            {
+                "name": "eporner",
+                "url": "https://eporner.com"
+            },
+            {
+                "name": "mihoyo",
+                "url": "https://mihoyo.com"
+            },
+            {
+                "name": "investing",
+                "url": "https://investing.com"
+            },
+            {
+                "name": "fmkorea",
+                "url": "https://fmkorea.com"
+            },
+            {
+                "name": "quillbot",
+                "url": "https://quillbot.com"
+            },
+            {
+                "name": "hp",
+                "url": "https://hp.com"
+            },
+            {
+                "name": "dcinside",
+                "url": "https://dcinside.com"
+            },
+            {
+                "name": "scribd",
+                "url": "https://scribd.com"
+            },
+            {
+                "name": "onlinesbi",
+                "url": "https://onlinesbi.sbi"
+            },
+            {
+                "name": "sxyprn",
+                "url": "https://sxyprn.com"
+            },
+            {
+                "name": "zendesk",
+                "url": "https://zendesk.com"
+            },
+            {
+                "name": "livejasmin",
+                "url": "https://livejasmin.com"
+            },
+            {
+                "name": "mytopwords",
+                "url": "https://mytopwords.com"
+            },
+            {
+                "name": "coupang",
+                "url": "https://coupang.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.pl"
+            },
+            {
+                "name": "autohome",
+                "url": "https://autohome.com.cn"
+            },
+            {
+                "name": "azure",
+                "url": "https://azure.com"
+            },
+            {
+                "name": "1337x",
+                "url": "https://1337x.to"
+            },
+            {
+                "name": "istockphoto",
+                "url": "https://istockphoto.com"
+            },
+            {
+                "name": "zjedu",
+                "url": "https://zjedu.gov.cn"
+            },
+            {
+                "name": "foxnews",
+                "url": "https://foxnews.com"
+            },
+            {
+                "name": "homedepot",
+                "url": "https://homedepot.com"
+            },
+            {
+                "name": "aparat",
+                "url": "https://aparat.com"
+            },
+            {
+                "name": "cctv",
+                "url": "https://cctv.com"
+            },
+            {
+                "name": "qidian",
+                "url": "https://qidian.com"
+            },
+            {
+                "name": "gitee",
+                "url": "https://gitee.com"
+            },
+            {
+                "name": "wordpress",
+                "url": "https://wordpress.org"
+            },
+            {
+                "name": "intuit",
+                "url": "https://intuit.com"
+            },
+            {
+                "name": "wikimedia",
+                "url": "https://wikimedia.org"
+            },
+            {
+                "name": "oracle",
+                "url": "https://oracle.com"
+            },
+            {
+                "name": "shopee",
+                "url": "https://shopee.tw"
+            },
+            {
+                "name": "t",
+                "url": "https://t.co"
+            },
+            {
+                "name": "xhamsterlive",
+                "url": "https://xhamsterlive.com"
+            },
+            {
+                "name": "51cto",
+                "url": "https://51cto.com"
+            },
+            {
+                "name": "4399",
+                "url": "https://4399.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.co.th"
+            },
+            {
+                "name": "dell",
+                "url": "https://dell.com"
+            },
+            {
+                "name": "shopee",
+                "url": "https://shopee.co.id"
+            },
+            {
+                "name": "chsi",
+                "url": "https://chsi.com.cn"
+            },
+            {
+                "name": "yuketang",
+                "url": "https://yuketang.cn"
+            },
+            {
+                "name": "9gag",
+                "url": "https://9gag.com"
+            },
+            {
+                "name": "capitalone",
+                "url": "https://capitalone.com"
+            },
+            {
+                "name": "wowhead",
+                "url": "https://wowhead.com"
+            },
+            {
+                "name": "premierleague",
+                "url": "https://premierleague.com"
+            },
+            {
+                "name": "trendyol",
+                "url": "https://trendyol.com"
+            },
+            {
+                "name": "okezone",
+                "url": "https://okezone.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.co.kr"
+            },
+            {
+                "name": "crunchyroll",
+                "url": "https://crunchyroll.com"
+            },
+            {
+                "name": "healthline",
+                "url": "https://healthline.com"
+            },
+            {
+                "name": "jb51",
+                "url": "https://jb51.net"
+            },
+            {
+                "name": "cricbuzz",
+                "url": "https://cricbuzz.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.sa"
+            },
+            {
+                "name": "torob",
+                "url": "https://torob.com"
+            },
+            {
+                "name": "weather",
+                "url": "https://weather.com"
+            },
+            {
+                "name": "ups",
+                "url": "https://ups.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.com.mx"
+            },
+            {
+                "name": "mercadolibre",
+                "url": "https://mercadolibre.com.ar"
+            },
+            {
+                "name": "eastmoney",
+                "url": "https://eastmoney.com"
+            },
+            {
+                "name": "gstatic",
+                "url": "https://gstatic.com"
+            },
+            {
+                "name": "cloudflare",
+                "url": "https://cloudflare.com"
+            },
+            {
+                "name": "ifeng",
+                "url": "https://ifeng.com"
+            },
+            {
+                "name": "nike",
+                "url": "https://nike.com"
+            },
+            {
+                "name": "fast",
+                "url": "https://fast.com"
+            },
+            {
+                "name": "tripadvisor",
+                "url": "https://tripadvisor.com"
+            },
+            {
+                "name": "usps",
+                "url": "https://usps.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.ar"
+            },
+            {
+                "name": "espncricinfo",
+                "url": "https://espncricinfo.com"
+            },
+            {
+                "name": "iqbroker",
+                "url": "https://iqbroker.com"
+            },
+            {
+                "name": "elsevier",
+                "url": "https://elsevier.com"
+            },
+            {
+                "name": "mercari",
+                "url": "https://mercari.com"
+            },
+            {
+                "name": "bestbuy",
+                "url": "https://bestbuy.com"
+            },
+            {
+                "name": "gog",
+                "url": "https://gog.com"
+            },
+            {
+                "name": "marca",
+                "url": "https://marca.com"
+            },
+            {
+                "name": "trontv",
+                "url": "https://trontv.com"
+            },
+            {
+                "name": "soso",
+                "url": "https://soso.com"
+            },
+            {
+                "name": "dingtalk",
+                "url": "https://dingtalk.com"
+            },
+            {
+                "name": "yiyouliao",
+                "url": "https://yiyouliao.com"
+            },
+            {
+                "name": "wiley",
+                "url": "https://wiley.com"
+            },
+            {
+                "name": "discordapp",
+                "url": "https://discordapp.com"
+            },
+            {
+                "name": "springer",
+                "url": "https://springer.com"
+            },
+            {
+                "name": "similarweb",
+                "url": "https://similarweb.com"
+            },
+            {
+                "name": "yelp",
+                "url": "https://yelp.com"
+            },
+            {
+                "name": "gismeteo",
+                "url": "https://gismeteo.ru"
+            },
+            {
+                "name": "juejin",
+                "url": "https://juejin.cn"
+            },
+            {
+                "name": "nhentai",
+                "url": "https://nhentai.net"
+            },
+            {
+                "name": "curseforge",
+                "url": "https://curseforge.com"
+            },
+            {
+                "name": "icourse163",
+                "url": "https://icourse163.org"
+            },
+            {
+                "name": "nexon",
+                "url": "https://nexon.com"
+            },
+            {
+                "name": "txxx",
+                "url": "https://txxx.com"
+            },
+            {
+                "name": "kdocs",
+                "url": "https://kdocs.cn"
+            },
+            {
+                "name": "leboncoin",
+                "url": "https://leboncoin.fr"
+            },
+            {
+                "name": "directcpmrev",
+                "url": "https://directcpmrev.com"
+            },
+            {
+                "name": "shopee",
+                "url": "https://shopee.com.br"
+            },
+            {
+                "name": "flickr",
+                "url": "https://flickr.com"
+            },
+            {
+                "name": "wp",
+                "url": "https://wp.pl"
+            },
+            {
+                "name": "huaban",
+                "url": "https://huaban.com"
+            },
+            {
+                "name": "rottentomatoes",
+                "url": "https://rottentomatoes.com"
+            },
+            {
+                "name": "ecosia",
+                "url": "https://ecosia.org"
+            },
+            {
+                "name": "dbs",
+                "url": "https://dbs.com.sg"
+            },
+            {
+                "name": "ouo",
+                "url": "https://ouo.io"
+            },
+            {
+                "name": "wix",
+                "url": "https://manage.wix.com"
+            },
+            {
+                "name": "zerodha",
+                "url": "https://zerodha.com"
+            },
+            {
+                "name": "dailymotion",
+                "url": "https://dailymotion.com"
+            },
+            {
+                "name": "atlassian",
+                "url": "https://atlassian.com"
+            },
+            {
+                "name": "fedex",
+                "url": "https://fedex.com"
+            },
+            {
+                "name": "tokopedia",
+                "url": "https://tokopedia.com"
+            },
+            {
+                "name": "shopee",
+                "url": "https://shopee.co.th"
+            },
+            {
+                "name": "dribbble",
+                "url": "https://dribbble.com"
+            },
+            {
+                "name": "xfinity",
+                "url": "https://xfinity.com"
+            },
+            {
+                "name": "snapchat",
+                "url": "https://snapchat.com"
+            },
+            {
+                "name": "academia",
+                "url": "https://academia.edu"
+            },
+            {
+                "name": "divar",
+                "url": "https://divar.ir"
+            },
+            {
+                "name": "visualstudio",
+                "url": "https://visualstudio.com"
+            },
+            {
+                "name": "asana",
+                "url": "https://asana.com"
+            },
+            {
+                "name": "noodlemagazine",
+                "url": "https://noodlemagazine.com"
+            },
+            {
+                "name": "yuque",
+                "url": "https://yuque.com"
+            },
+            {
+                "name": "asus",
+                "url": "https://asus.com"
+            },
+            {
+                "name": "smallpdf",
+                "url": "https://smallpdf.com"
+            },
+            {
+                "name": "youporn",
+                "url": "https://youporn.com"
+            },
+            {
+                "name": "doubleclick",
+                "url": "https://doubleclick.net"
+            },
+            {
+                "name": "cupfox",
+                "url": "https://cupfox.app"
+            },
+            {
+                "name": "genius",
+                "url": "https://genius.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.eg"
+            },
+            {
+                "name": "target",
+                "url": "https://target.com"
+            },
+            {
+                "name": "gd",
+                "url": "https://gd.gov.cn"
+            },
+            {
+                "name": "e-hentai",
+                "url": "https://e-hentai.org"
+            },
+            {
+                "name": "opensea",
+                "url": "https://opensea.io"
+            },
+            {
+                "name": "wise",
+                "url": "https://wise.com"
+            },
+            {
+                "name": "nga",
+                "url": "https://nga.cn"
+            },
+            {
+                "name": "shopee",
+                "url": "https://shopee.com.my"
+            },
+            {
+                "name": "qoo10",
+                "url": "https://qoo10.sg"
+            },
+            {
+                "name": "crengate",
+                "url": "https://crengate.com"
+            },
+            {
+                "name": "sourceforge",
+                "url": "https://sourceforge.net"
+            },
+            {
+                "name": "ubisoft",
+                "url": "https://ubisoft.com"
+            },
+            {
+                "name": "daftsex",
+                "url": "https://daftsex.com"
+            },
+            {
+                "name": "duosecurity",
+                "url": "https://duosecurity.com"
+            },
+            {
+                "name": "supjav",
+                "url": "https://supjav.com"
+            },
+            {
+                "name": "hepsiburada",
+                "url": "https://hepsiburada.com"
+            },
+            {
+                "name": "redgifs",
+                "url": "https://redgifs.com"
+            },
+            {
+                "name": "flaticon",
+                "url": "https://flaticon.com"
+            },
+            {
+                "name": "neea",
+                "url": "https://neea.cn"
+            },
+            {
+                "name": "afreecatv",
+                "url": "https://afreecatv.com"
+            },
+            {
+                "name": "goodreads",
+                "url": "https://goodreads.com"
+            },
+            {
+                "name": "ruliweb",
+                "url": "https://ruliweb.com"
+            },
+            {
+                "name": "seznam",
+                "url": "https://seznam.cz"
+            },
+            {
+                "name": "sahibinden",
+                "url": "https://sahibinden.com"
+            },
+            {
+                "name": "www",
+                "url": "https://gov.uk"
+            },
+            {
+                "name": "themeforest",
+                "url": "https://themeforest.net"
+            },
+            {
+                "name": "gamer",
+                "url": "https://gamer.com.tw"
+            },
+            {
+                "name": "indiamart",
+                "url": "https://indiamart.com"
+            },
+            {
+                "name": "rutracker",
+                "url": "https://rutracker.org"
+            },
+            {
+                "name": "thepaper",
+                "url": "https://thepaper.cn"
+            },
+            {
+                "name": "discogs",
+                "url": "https://discogs.com"
+            },
+            {
+                "name": "bitly",
+                "url": "https://bitly.com"
+            },
+            {
+                "name": "lenovo",
+                "url": "https://lenovo.com"
+            },
+            {
+                "name": "360doc",
+                "url": "https://360doc.com"
+            },
+            {
+                "name": "skype",
+                "url": "https://skype.com"
+            },
+            {
+                "name": "washingtonpost",
+                "url": "https://washingtonpost.com"
+            },
+            {
+                "name": "orange",
+                "url": "https://orange.fr"
+            },
+            {
+                "name": "115",
+                "url": "https://115.com"
+            },
+            {
+                "name": "cambridge",
+                "url": "https://cambridge.org"
+            },
+            {
+                "name": "porntrex",
+                "url": "https://porntrex.com"
+            },
+            {
+                "name": "nvidia",
+                "url": "https://nvidia.com"
+            },
+            {
+                "name": "convertio",
+                "url": "https://convertio.co"
+            },
+            {
+                "name": "artstation",
+                "url": "https://artstation.com"
+            },
+            {
+                "name": "fantuanhd",
+                "url": "https://fantuanhd.com"
+            },
+            {
+                "name": "box",
+                "url": "https://box.com"
+            },
+            {
+                "name": "myworkday",
+                "url": "https://myworkday.com"
+            },
+            {
+                "name": "infobae",
+                "url": "https://infobae.com"
+            },
+            {
+                "name": "kinopoisk",
+                "url": "https://kinopoisk.ru"
+            },
+            {
+                "name": "91duba",
+                "url": "https://91duba.com"
+            },
+            {
+                "name": "web",
+                "url": "https://web.de"
+            },
+            {
+                "name": "1377x",
+                "url": "https://1377x.to"
+            },
+            {
+                "name": "opera",
+                "url": "https://opera.com"
+            },
+            {
+                "name": "chegg",
+                "url": "https://chegg.com"
+            },
+            {
+                "name": "doc88",
+                "url": "https://doc88.com"
+            },
+            {
+                "name": "shahed4u",
+                "url": "https://shahed4u.cfd"
+            },
+            {
+                "name": "outbrain",
+                "url": "https://outbrain.com"
+            },
+            {
+                "name": "uptodown",
+                "url": "https://uptodown.com"
+            },
+            {
+                "name": "readmanganato",
+                "url": "https://readmanganato.com"
+            },
+            {
+                "name": "bendibao",
+                "url": "https://bendibao.com"
+            },
+            {
+                "name": "nextdoor",
+                "url": "https://nextdoor.com"
+            },
+            {
+                "name": "inven",
+                "url": "https://inven.co.kr"
+            },
+            {
+                "name": "rapidgator",
+                "url": "https://rapidgator.net"
+            },
+            {
+                "name": "ria",
+                "url": "https://ria.ru"
+            },
+            {
+                "name": "myanimelist",
+                "url": "https://myanimelist.net"
+            },
+            {
+                "name": "livedoor",
+                "url": "https://livedoor.jp"
+            },
+            {
+                "name": "olx",
+                "url": "https://olx.pl"
+            },
+            {
+                "name": "gitlab",
+                "url": "https://gitlab.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.au"
+            },
+            {
+                "name": "ea",
+                "url": "https://ea.com"
+            },
+            {
+                "name": "softonic",
+                "url": "https://softonic.com"
+            },
+            {
+                "name": "powerbi",
+                "url": "https://powerbi.com"
+            },
+            {
+                "name": "onet",
+                "url": "https://onet.pl"
+            },
+            {
+                "name": "mailchimp",
+                "url": "https://mailchimp.com"
+            },
+            {
+                "name": "zippyshare",
+                "url": "https://zippyshare.com"
+            },
+            {
+                "name": "etoro",
+                "url": "https://etoro.com"
+            },
+            {
+                "name": "riotgames",
+                "url": "https://riotgames.com"
+            },
+            {
+                "name": "getbootstrap",
+                "url": "https://getbootstrap.com"
+            },
+            {
+                "name": "mit",
+                "url": "https://mit.edu"
+            },
+            {
+                "name": "calendly",
+                "url": "https://calendly.com"
+            },
+            {
+                "name": "naukri",
+                "url": "https://naukri.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.az"
+            },
+            {
+                "name": "namecheap",
+                "url": "https://namecheap.com"
+            },
+            {
+                "name": "arca",
+                "url": "https://arca.live"
+            },
+            {
+                "name": "11st",
+                "url": "https://11st.co.kr"
+            },
+            {
+                "name": "xbox",
+                "url": "https://xbox.com"
+            },
+            {
+                "name": "apple",
+                "url": "https://apple.com.cn"
+            },
+            {
+                "name": "gogoanime",
+                "url": "https://gogoanime.ee"
+            },
+            {
+                "name": "bandcamp",
+                "url": "https://bandcamp.com"
+            },
+            {
+                "name": "javbus",
+                "url": "https://javbus.com"
+            },
+            {
+                "name": "cdninstagram",
+                "url": "https://cdninstagram.com"
+            },
+            {
+                "name": "costco",
+                "url": "https://costco.com"
+            },
+            {
+                "name": "weibo",
+                "url": "https://weibo.cn"
+            },
+            {
+                "name": "myworkdayjobs",
+                "url": "https://myworkdayjobs.com"
+            },
+            {
+                "name": "thesaurus",
+                "url": "https://thesaurus.com"
+            },
+            {
+                "name": "pearson",
+                "url": "https://pearson.com"
+            },
+            {
+                "name": "mi",
+                "url": "https://mi.com"
+            },
+            {
+                "name": "bild",
+                "url": "https://bild.de"
+            },
+            {
+                "name": "citi",
+                "url": "https://citi.com"
+            },
+            {
+                "name": "dytt8",
+                "url": "https://dytt8.net"
+            },
+            {
+                "name": "archiveofourown",
+                "url": "https://archiveofourown.org"
+            },
+            {
+                "name": "wikihow",
+                "url": "https://wikihow.com"
+            },
+            {
+                "name": "gmx",
+                "url": "https://gmx.net"
+            },
+            {
+                "name": "youth",
+                "url": "https://youth.cn"
+            },
+            {
+                "name": "cnbc",
+                "url": "https://cnbc.com"
+            },
+            {
+                "name": "ign",
+                "url": "https://ign.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.nl"
+            },
+            {
+                "name": "fidelity",
+                "url": "https://fidelity.com"
+            },
+            {
+                "name": "poste",
+                "url": "https://poste.it"
+            },
+            {
+                "name": "rakuten",
+                "url": "https://rakuten.com"
+            },
+            {
+                "name": "zj",
+                "url": "https://zj.gov.cn"
+            },
+            {
+                "name": "trustpilot",
+                "url": "https://trustpilot.com"
+            },
+            {
+                "name": "mheducation",
+                "url": "https://mheducation.com"
+            },
+            {
+                "name": "europa",
+                "url": "https://europa.eu"
+            },
+            {
+                "name": "att",
+                "url": "https://att.com"
+            },
+            {
+                "name": "9anime",
+                "url": "https://9anime.id"
+            },
+            {
+                "name": "hitomi",
+                "url": "https://hitomi.la"
+            },
+            {
+                "name": "duolingo",
+                "url": "https://duolingo.com"
+            },
+            {
+                "name": "as",
+                "url": "https://as.com"
+            },
+            {
+                "name": "forbes",
+                "url": "https://forbes.com"
+            },
+            {
+                "name": "poki",
+                "url": "https://poki.com"
+            },
+            {
+                "name": "jaavnacsdw",
+                "url": "https://jaavnacsdw.com"
+            },
+            {
+                "name": "icicibank",
+                "url": "https://icicibank.com"
+            },
+            {
+                "name": "npmjs",
+                "url": "https://npmjs.com"
+            },
+            {
+                "name": "quark",
+                "url": "https://quark.cn"
+            },
+            {
+                "name": "slideshare",
+                "url": "https://slideshare.net"
+            },
+            {
+                "name": "payoneer",
+                "url": "https://payoneer.com"
+            },
+            {
+                "name": "theporndude",
+                "url": "https://theporndude.com"
+            },
+            {
+                "name": "impress",
+                "url": "https://impress.co.jp"
+            },
+            {
+                "name": "google",
+                "url": "https://google.gr"
+            },
+            {
+                "name": "digitalocean",
+                "url": "https://digitalocean.com"
+            },
+            {
+                "name": "lichess",
+                "url": "https://lichess.org"
+            },
+            {
+                "name": "gmarket",
+                "url": "https://gmarket.co.kr"
+            },
+            {
+                "name": "21cnjy",
+                "url": "https://21cnjy.com"
+            },
+            {
+                "name": "leetcode",
+                "url": "https://leetcode.cn"
+            },
+            {
+                "name": "kuaishou",
+                "url": "https://kuaishou.com"
+            },
+            {
+                "name": "jable",
+                "url": "https://jable.tv"
+            },
+            {
+                "name": "kooora",
+                "url": "https://kooora.com"
+            },
+            {
+                "name": "rumble",
+                "url": "https://rumble.com"
+            },
+            {
+                "name": "mydrivers",
+                "url": "https://mydrivers.com"
+            },
+            {
+                "name": "internetdownloadmanager",
+                "url": "https://internetdownloadmanager.com"
+            },
+            {
+                "name": "realtor",
+                "url": "https://realtor.com"
+            },
+            {
+                "name": "ultimate-guitar",
+                "url": "https://ultimate-guitar.com"
+            },
+            {
+                "name": "ca",
+                "url": "https://ca.gov"
+            },
+            {
+                "name": "playstation",
+                "url": "https://playstation.com"
+            },
+            {
+                "name": "investopedia",
+                "url": "https://investopedia.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.co.id"
+            },
+            {
+                "name": "cococut",
+                "url": "https://cococut.net"
+            },
+            {
+                "name": "evernote",
+                "url": "https://evernote.com"
+            },
+            {
+                "name": "shopee",
+                "url": "https://shopee.ph"
+            },
+            {
+                "name": "impots",
+                "url": "https://impots.gouv.fr"
+            },
+            {
+                "name": "tutorialspoint",
+                "url": "https://tutorialspoint.com"
+            },
+            {
+                "name": "tianyancha",
+                "url": "https://tianyancha.com"
+            },
+            {
+                "name": "nowcoder",
+                "url": "https://nowcoder.com"
+            },
+            {
+                "name": "uidai",
+                "url": "https://uidai.gov.in"
+            },
+            {
+                "name": "4chan",
+                "url": "https://4chan.org"
+            },
+            {
+                "name": "lowes",
+                "url": "https://lowes.com"
+            },
+            {
+                "name": "windy",
+                "url": "https://windy.com"
+            },
+            {
+                "name": "agemys",
+                "url": "https://agemys.cc"
+            },
+            {
+                "name": "tnaflix",
+                "url": "https://tnaflix.com"
+            },
+            {
+                "name": "iloveimg",
+                "url": "https://iloveimg.com"
+            },
+            {
+                "name": "hm",
+                "url": "https://hm.com"
+            },
+            {
+                "name": "weebly",
+                "url": "https://weebly.com"
+            },
+            {
+                "name": "missav",
+                "url": "https://missav.com"
+            },
+            {
+                "name": "lenta",
+                "url": "https://lenta.ru"
+            },
+            {
+                "name": "fourpetal",
+                "url": "https://fourpetal.com"
+            },
+            {
+                "name": "chinatax",
+                "url": "https://chinatax.gov.cn"
+            },
+            {
+                "name": "proton",
+                "url": "https://proton.me"
+            },
+            {
+                "name": "360",
+                "url": "https://360.com"
+            },
+            {
+                "name": "hostinger",
+                "url": "https://hostinger.com"
+            },
+            {
+                "name": "rt",
+                "url": "https://rt.com"
+            },
+            {
+                "name": "codepen",
+                "url": "https://codepen.io"
+            },
+            {
+                "name": "razorpay",
+                "url": "https://razorpay.com"
+            },
+            {
+                "name": "zoukankan",
+                "url": "https://zoukankan.com"
+            },
+            {
+                "name": "freecodecamp",
+                "url": "https://freecodecamp.org"
+            },
+            {
+                "name": "srvtrck",
+                "url": "https://srvtrck.com"
+            },
+            {
+                "name": "adp",
+                "url": "https://adp.com"
+            },
+            {
+                "name": "ebay",
+                "url": "https://ebay.it"
+            },
+            {
+                "name": "shopee",
+                "url": "https://shopee.vn"
+            },
+            {
+                "name": "animixplay",
+                "url": "https://animixplay.to"
+            },
+            {
+                "name": "1fichier",
+                "url": "https://1fichier.com"
+            },
+            {
+                "name": "taboola",
+                "url": "https://taboola.com"
+            },
+            {
+                "name": "wjx",
+                "url": "https://wjx.cn"
+            },
+            {
+                "name": "thisvid",
+                "url": "https://thisvid.com"
+            },
+            {
+                "name": "qcc",
+                "url": "https://qcc.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.sa"
+            },
+            {
+                "name": "webpkgcache",
+                "url": "https://webpkgcache.com"
+            },
+            {
+                "name": "wps",
+                "url": "https://wps.cn"
+            },
+            {
+                "name": "canada",
+                "url": "https://canada.ca"
+            },
+            {
+                "name": "optnx",
+                "url": "https://optnx.com"
+            },
+            {
+                "name": "u",
+                "url": "https://u.gg"
+            },
+            {
+                "name": "japanpost",
+                "url": "https://japanpost.jp"
+            },
+            {
+                "name": "fitgirl-repacks",
+                "url": "https://fitgirl-repacks.site"
+            },
+            {
+                "name": "tectalmammula",
+                "url": "https://tectalmammula.casa"
+            },
+            {
+                "name": "bongacams",
+                "url": "https://bongacams.com"
+            },
+            {
+                "name": "zhibo8",
+                "url": "https://zhibo8.cc"
+            },
+            {
+                "name": "olx",
+                "url": "https://olx.com.br"
+            },
+            {
+                "name": "dreamstime",
+                "url": "https://dreamstime.com"
+            },
+            {
+                "name": "2345",
+                "url": "https://2345.com"
+            },
+            {
+                "name": "formula1",
+                "url": "https://formula1.com"
+            },
+            {
+                "name": "irctc",
+                "url": "https://irctc.co.in"
+            },
+            {
+                "name": "eksisozluk",
+                "url": "https://eksisozluk.com"
+            },
+            {
+                "name": "neexulro",
+                "url": "https://neexulro.net"
+            },
+            {
+                "name": "xiumi",
+                "url": "https://xiumi.us"
+            },
+            {
+                "name": "hotmart",
+                "url": "https://hotmart.com"
+            },
+            {
+                "name": "oraclecloud",
+                "url": "https://oraclecloud.com"
+            },
+            {
+                "name": "dlsite",
+                "url": "https://dlsite.com"
+            },
+            {
+                "name": "goo",
+                "url": "https://goo.ne.jp"
+            },
+            {
+                "name": "squarespace",
+                "url": "https://squarespace.com"
+            },
+            {
+                "name": "alicdn",
+                "url": "https://alicdn.com"
+            },
+            {
+                "name": "bloomberg",
+                "url": "https://bloomberg.com"
+            },
+            {
+                "name": "cnet",
+                "url": "https://cnet.com"
+            },
+            {
+                "name": "nunuyy2",
+                "url": "https://nunuyy2.org"
+            },
+            {
+                "name": "gsmarena",
+                "url": "https://gsmarena.com"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.com.au"
+            },
+            {
+                "name": "wattpad",
+                "url": "https://wattpad.com"
+            },
+            {
+                "name": "hltv",
+                "url": "https://hltv.org"
+            },
+            {
+                "name": "dood",
+                "url": "https://dood.wf"
+            },
+            {
+                "name": "accuweather",
+                "url": "https://accuweather.com"
+            },
+            {
+                "name": "airbnb",
+                "url": "https://airbnb.com"
+            },
+            {
+                "name": "qualtrics",
+                "url": "https://qualtrics.com"
+            },
+            {
+                "name": "uptobox",
+                "url": "https://uptobox.com"
+            },
+            {
+                "name": "jetbrains",
+                "url": "https://jetbrains.com"
+            },
+            {
+                "name": "tampermonkey",
+                "url": "https://tampermonkey.net"
+            },
+            {
+                "name": "nature",
+                "url": "https://nature.com"
+            },
+            {
+                "name": "flashscore",
+                "url": "https://flashscore.com"
+            },
+            {
+                "name": "libvio",
+                "url": "https://libvio.me"
+            },
+            {
+                "name": "brave",
+                "url": "https://brave.com"
+            },
+            {
+                "name": "blog",
+                "url": "https://blog.jp"
+            },
+            {
+                "name": "agoda",
+                "url": "https://agoda.com"
+            },
+            {
+                "name": "acfun",
+                "url": "https://acfun.cn"
+            },
+            {
+                "name": "noonoo",
+                "url": "https://noonoo.tv"
+            },
+            {
+                "name": "livescore",
+                "url": "https://livescore.com"
+            },
+            {
+                "name": "xhamster18",
+                "url": "https://xhamster18.desi"
+            },
+            {
+                "name": "powerofferz",
+                "url": "https://powerofferz.com"
+            },
+            {
+                "name": "norton",
+                "url": "https://norton.com"
+            },
+            {
+                "name": "cam4",
+                "url": "https://cam4.com"
+            },
+            {
+                "name": "xueqiu",
+                "url": "https://xueqiu.com"
+            },
+            {
+                "name": "sberbank",
+                "url": "https://sberbank.ru"
+            },
+            {
+                "name": "rambler",
+                "url": "https://rambler.ru"
+            },
+            {
+                "name": "kakaku",
+                "url": "https://kakaku.com"
+            },
+            {
+                "name": "turkiye",
+                "url": "https://turkiye.gov.tr"
+            },
+            {
+                "name": "zhipin",
+                "url": "https://zhipin.com"
+            },
+            {
+                "name": "ibm",
+                "url": "https://ibm.com"
+            },
+            {
+                "name": "coingecko",
+                "url": "https://coingecko.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.ro"
+            },
+            {
+                "name": "manatoki152",
+                "url": "https://manatoki152.net"
+            },
+            {
+                "name": "upornia",
+                "url": "https://upornia.com"
+            },
+            {
+                "name": "codegrepper",
+                "url": "https://codegrepper.com"
+            },
+            {
+                "name": "boyfriendtv",
+                "url": "https://boyfriendtv.com"
+            },
+            {
+                "name": "interia",
+                "url": "https://interia.pl"
+            },
+            {
+                "name": "businessinsider",
+                "url": "https://businessinsider.com"
+            },
+            {
+                "name": "php",
+                "url": "https://php.cn"
+            },
+            {
+                "name": "bdys01",
+                "url": "https://bdys01.com"
+            },
+            {
+                "name": "bol",
+                "url": "https://bol.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.be"
+            },
+            {
+                "name": "bestmatchproduce",
+                "url": "https://bestmatchproduce.com"
+            },
+            {
+                "name": "zhaopin",
+                "url": "https://zhaopin.com"
+            },
+            {
+                "name": "ibaotu",
+                "url": "https://ibaotu.com"
+            },
+            {
+                "name": "leetcode",
+                "url": "https://leetcode.com"
+            },
+            {
+                "name": "itch",
+                "url": "https://itch.io"
+            },
+            {
+                "name": "bitbucket",
+                "url": "https://bitbucket.org"
+            },
+            {
+                "name": "asurascans",
+                "url": "https://asurascans.com"
+            },
+            {
+                "name": "cengage",
+                "url": "https://cengage.com"
+            },
+            {
+                "name": "motherless",
+                "url": "https://motherless.com"
+            },
+            {
+                "name": "guancha",
+                "url": "https://guancha.cn"
+            },
+            {
+                "name": "ieee",
+                "url": "https://ieee.org"
+            },
+            {
+                "name": "zoho",
+                "url": "https://zoho.in"
+            },
+            {
+                "name": "merriam-webster",
+                "url": "https://merriam-webster.com"
+            },
+            {
+                "name": "subscene",
+                "url": "https://subscene.com"
+            },
+            {
+                "name": "gamespot",
+                "url": "https://gamespot.com"
+            },
+            {
+                "name": "dafont",
+                "url": "https://dafont.com"
+            },
+            {
+                "name": "pathofexile",
+                "url": "https://pathofexile.com"
+            },
+            {
+                "name": "51job",
+                "url": "https://51job.com"
+            },
+            {
+                "name": "spiegel",
+                "url": "https://spiegel.de"
+            },
+            {
+                "name": "python",
+                "url": "https://python.org"
+            },
+            {
+                "name": "pngtree",
+                "url": "https://pngtree.com"
+            },
+            {
+                "name": "coursehero",
+                "url": "https://coursehero.com"
+            },
+            {
+                "name": "hbtv",
+                "url": "https://hbtv.com.cn"
+            },
+            {
+                "name": "miro",
+                "url": "https://miro.com"
+            },
+            {
+                "name": "battle",
+                "url": "https://battle.net"
+            },
+            {
+                "name": "ezgif",
+                "url": "https://ezgif.com"
+            },
+            {
+                "name": "fibbermedia",
+                "url": "https://fibbermedia.com"
+            },
+            {
+                "name": "perryvolleyball",
+                "url": "https://perryvolleyball.com"
+            },
+            {
+                "name": "live",
+                "url": "https://live.net"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.eg"
+            },
+            {
+                "name": "youjizz",
+                "url": "https://youjizz.com"
+            },
+            {
+                "name": "ptt",
+                "url": "https://ptt.cc"
+            },
+            {
+                "name": "zhixue",
+                "url": "https://zhixue.com"
+            },
+            {
+                "name": "redtube",
+                "url": "https://redtube.com"
+            },
+            {
+                "name": "rightmove",
+                "url": "https://rightmove.co.uk"
+            },
+            {
+                "name": "thepiratebay",
+                "url": "https://thepiratebay.org"
+            },
+            {
+                "name": "coinbase",
+                "url": "https://coinbase.com"
+            },
+            {
+                "name": "betano",
+                "url": "https://betano.com"
+            },
+            {
+                "name": "biligame",
+                "url": "https://biligame.com"
+            },
+            {
+                "name": "pdfdrive",
+                "url": "https://pdfdrive.com"
+            },
+            {
+                "name": "google",
+                "url": "https://google.com.vn"
+            },
+            {
+                "name": "ubereats",
+                "url": "https://ubereats.com"
+            },
+            {
+                "name": "redfin",
+                "url": "https://redfin.com"
+            },
+            {
+                "name": "itmedia",
+                "url": "https://itmedia.co.jp"
+            },
+            {
+                "name": "googleapis",
+                "url": "https://storage.googleapis.com"
+            },
+            {
+                "name": "redbubble",
+                "url": "https://redbubble.com"
+            },
+            {
+                "name": "nypost",
+                "url": "https://nypost.com"
+            },
+            {
+                "name": "exhentai",
+                "url": "https://exhentai.org"
+            },
+            {
+                "name": "zhihuishu",
+                "url": "https://zhihuishu.com"
+            },
+            {
+                "name": "bluehost",
+                "url": "https://bluehost.com"
+            },
+            {
+                "name": "addthis",
+                "url": "https://addthis.com"
+            },
+            {
+                "name": "ettoday",
+                "url": "https://ettoday.net"
+            },
+            {
+                "name": "clickup",
+                "url": "https://clickup.com"
+            },
+            {
+                "name": "178",
+                "url": "https://178.com"
+            },
+            {
+                "name": "udn",
+                "url": "https://udn.com"
+            },
+            {
+                "name": "omofun",
+                "url": "https://omofun.tv"
+            },
+            {
+                "name": "windowsazure",
+                "url": "https://windowsazure.com"
+            },
+            {
+                "name": "gofile",
+                "url": "https://gofile.io"
+            },
+            {
+                "name": "soap2day",
+                "url": "https://soap2day.to"
+            },
+            {
+                "name": "myntra",
+                "url": "https://myntra.com"
+            },
+            {
+                "name": "gumroad",
+                "url": "https://gumroad.com"
+            },
+            {
+                "name": "bybit",
+                "url": "https://bybit.com"
+            },
+            {
+                "name": "intel",
+                "url": "https://intel.com"
+            },
+            {
+                "name": "speechfountaindigestion",
+                "url": "https://speechfountaindigestion.com"
+            },
+            {
+                "name": "apache",
+                "url": "https://apache.org"
+            },
+            {
+                "name": "vecteezy",
+                "url": "https://vecteezy.com"
+            },
+            {
+                "name": "asos",
+                "url": "https://asos.com"
+            },
+            {
+                "name": "ctfile",
+                "url": "https://ctfile.com"
+            },
+            {
+                "name": "hqporner",
+                "url": "https://hqporner.com"
+            },
+            {
+                "name": "lenovo",
+                "url": "https://lenovo.com.cn"
+            },
+            {
+                "name": "discover",
+                "url": "https://discover.com"
+            },
+            {
+                "name": "moneycontrol",
+                "url": "https://moneycontrol.com"
+            },
+            {
+                "name": "docusign",
+                "url": "https://docusign.com"
+            },
+            {
+                "name": "orchestraanticipation",
+                "url": "https://orchestraanticipation.com"
+            },
+            {
+                "name": "harvard",
+                "url": "https://harvard.edu"
+            },
+            {
+                "name": "reuters",
+                "url": "https://reuters.com"
+            },
+            {
+                "name": "yjbys",
+                "url": "https://yjbys.com"
+            },
+            {
+                "name": "thingiverse",
+                "url": "https://thingiverse.com"
+            },
+            {
+                "name": "unwillingsnick",
+                "url": "https://unwillingsnick.com"
+            },
+            {
+                "name": "bilibili",
+                "url": "https://bilibili.tv"
+            },
+            {
+                "name": "elpais",
+                "url": "https://elpais.com"
+            },
+            {
+                "name": "wsj",
+                "url": "https://wsj.com"
+            },
+            {
+                "name": "docusign",
+                "url": "https://docusign.net"
+            },
+            {
+                "name": "vnexpress",
+                "url": "https://vnexpress.net"
+            },
+            {
+                "name": "amazon",
+                "url": "https://amazon.com.tr"
+            },
+            {
+                "name": "repubblica",
+                "url": "https://repubblica.it"
+            },
+            {
+                "name": "tenki",
+                "url": "https://tenki.jp"
+            },
+            {
+                "name": "ebay",
+                "url": "https://ebay.com.au"
+            },
+            {
+                "name": "lanzoui",
+                "url": "https://lanzoui.com"
+            },
+            {
+                "name": "autodesk",
+                "url": "https://autodesk.com"
+            },
+            {
+                "name": "shimo",
+                "url": "https://shimo.im"
+            },
+            {
+                "name": "cloudconvert",
+                "url": "https://cloudconvert.com"
+            },
+            {
+                "name": "adpointrtb",
+                "url": "https://adpointrtb.com"
+            },
+            {
+                "name": "etherscan",
+                "url": "https://etherscan.io"
+            },
+            {
+                "name": "semrush",
+                "url": "https://semrush.com"
+            },
+            {
+                "name": "teachable",
+                "url": "https://teachable.com"
+            },
+            {
+                "name": "aliyuncs",
+                "url": "https://aliyuncs.com"
+            },
+            {
+                "name": "zara",
+                "url": "https://zara.com"
+            },
+            {
+                "name": "expedia",
+                "url": "https://expedia.com"
+            },
+            {
+                "name": "wayfair",
+                "url": "https://wayfair.com"
+            },
+            {
+                "name": "mlb",
+                "url": "https://mlb.com"
+            },
+            {
+                "name": "aruba",
+                "url": "https://aruba.it"
+            },
+            {
+                "name": "blackboardcdn",
+                "url": "https://blackboardcdn.com"
+            },
+            {
+                "name": "libero",
+                "url": "https://libero.it"
+            },
+            {
+                "name": "free",
+                "url": "https://free.fr"
+            },
+            {
+                "name": "pixnet",
+                "url": "https://pixnet.net"
+            },
+            {
+                "name": "ndtv",
+                "url": "https://ndtv.com"
+            },
+            {
+                "name": "justdial",
+                "url": "https://justdial.com"
+            },
+            {
+                "name": "openai",
+                "url": "https://openai.com"
+            },
+            {
+                "name": "imagetwist",
+                "url": "https://imagetwist.com"
+            },
+            {
+                "name": "szedu",
+                "url": "https://szedu.cn"
+            },
+            {
+                "name": "gyazo",
+                "url": "https://gyazo.com"
+            },
+            {
+                "name": "qlteacher",
+                "url": "https://qlteacher.com"
+            },
+            {
+                "name": "syosetu",
+                "url": "https://syosetu.com"
+            },
+            {
+                "name": "cdb",
+                "url": "https://cdb.com.cn"
+            },
+            {
+                "name": "b2clogin",
+                "url": "https://b2clogin.com"
+            },
+            {
+                "name": "cisco",
+                "url": "https://cisco.com"
+            },
+            {
+                "name": "reapinject",
+                "url": "https://reapinject.com"
+            }
+        ]
+    }
